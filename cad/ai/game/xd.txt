@@ -1,0 +1,7 @@
+Plan for the future 2.0:
+1. Make a hashamp with a stack like in tic tac toe, for like the first five moves. 
+2. Make a function that counts the permanent corners.
+3. Make a functino that for each permenant corner, it counts how many connecting spaces you have with no gaps.
+4. Make several eval functions and play them against each other to figure out which one is better 
+ *** Ph-Pa = permanent pieces wieghed more
+ *** P(oH-oA) = nonpermanent pieces wieghed less
